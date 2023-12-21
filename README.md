@@ -9,7 +9,7 @@ Made with discordgo, great library found [here](https://github.com/bwmarrin/disc
 ## Commands
 
 1. !SecretSanta (case insensitive):
-usage: !SecretSanta <Event Name>
+usage: !SecretSanta \<\Event \Name>
 
 Sends a message to everyone in the server, telling them who their secret Santa is, doesn't support more than 1000 server members (limitations with the discordgo library)
 

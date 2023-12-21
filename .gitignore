@@ -8,5 +8,6 @@ secretSantaBot
 secretSantaData.json
 
 # This is for files on my machine, don't worry about it
+PIDLog.txt
 launch.json
 /main2
